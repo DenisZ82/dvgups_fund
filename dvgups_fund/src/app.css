@@ -1,0 +1,8 @@
+@import 'tailwindcss';
+@plugin '@tailwindcss/forms';
+@plugin '@tailwindcss/typography';
+
+
+/* @theme {
+  --color-global-gray: #F7F7F7;
+} */
